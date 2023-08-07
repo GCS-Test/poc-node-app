@@ -1,5 +1,5 @@
 // const baseUrl = "http://poc-app-test01.azurewebsites.net";
-const baseUrl = "http://poc-app-test01.azurewebsites.net";
+const baseUrl = "https://poc-app-test01.azurewebsites.net";
 
 export default baseUrl;
 
