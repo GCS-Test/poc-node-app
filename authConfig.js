@@ -7,8 +7,8 @@ const fs = require("fs");
 
 // const REDIRECT_URI = "http://poc-app-test01.azurewebsites.net/auth/redirect";
 // const POST_LOGOUT_REDIRECT_URI = "http://poc-app-test01.azurewebsites.net";
-const REDIRECT_URI = "http://poc-app-test01.azurewebsites.net/auth/redirect";
-const POST_LOGOUT_REDIRECT_URI = "http://poc-app-test01.azurewebsites.net;
+const REDIRECT_URI = "https://poc-app-test01.azurewebsites.net/auth/redirect";
+const POST_LOGOUT_REDIRECT_URI = "https://poc-app-test01.azurewebsites.net;
 const GRAPH_ME_ENDPOINT = "https://graph.microsoft.com/v1.0/me";
 
 const SESSION_COOKIE_NAME = "msid.sample.session";
